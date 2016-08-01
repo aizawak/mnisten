@@ -9,7 +9,7 @@
 #include <boost/detail/endian.hpp>
 
 #include <opencv/cv.hpp>
-#include <opencv2/highgui.hpp>
+#include <opencv2/highgui/highgui.hpp>
 
 #include "cmdline.h"
 #include "util.h"
